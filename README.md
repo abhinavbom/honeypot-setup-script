@@ -26,7 +26,7 @@ Usage
 
 Only run this if you **know what you are doing**.
 
-    wget -q https://raw.github.com/andrewmichaelsmith/honeypot-setup-script/master/setup.bash -O /tmp/setup.bash && bash /tmp/setup.bash
+    wget -q https://raw.github.com/abhinavbom/honeypot-setup-script/master/setup.bash -O /tmp/setup.bash && bash /tmp/setup.bash
 
 Effects
 ---------------------
